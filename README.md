@@ -18,3 +18,10 @@ Set up Git and GitHub.
 Know essential Git commands for everyday development tasks.
 Understand the concept of open-source contributions and their benefits in Web3.
 Lesson Video:
+
+SCREENSHOT SUBMISSION :
+
+- ! [GitHub Remote URL] (images\projectscreen.jpg) 
+
+CONCLUSION FOR TODAY I JUST HOPE SO IT RUNS
+GIR
